@@ -11,4 +11,4 @@ I'm a Front-End Developer and UI/UX Designer 💻
 
 ### Stacks ⚙
 
-![HTML](https://img.shields.io/badge/-html-555859?style=flat-square&logoColor=fff&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-555859?style=flat-square&logoColor=fff&logo=HTML)
