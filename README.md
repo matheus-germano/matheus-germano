@@ -8,3 +8,11 @@ I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Germano-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
 [![Gmail Badge](https://img.shields.io/badge/-dev.mgermano@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
+
+### Stack ⚙
+
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
