@@ -4,7 +4,7 @@ I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
-### Social 🌐
+### Social 🌎
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_grrmano/)](https://www.instagram.com/_grrmano/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
