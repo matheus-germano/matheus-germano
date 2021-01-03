@@ -12,8 +12,8 @@ I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
 ### Stack ⚙
 
-![HTML5](https://img.shields.io/badge/html%205-6633cc?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css%203-6633cc?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-6633cc?style=flat-square&logo=bootstrap&logoColor=white)
-![git](https://img.shields.io/badge/-git-6633cc?style=flat-square&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/-github-6633cc?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML%205-6633cc?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%203-6633cc?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6633cc?style=flat-square&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6633cc?style=flat-square&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=white)
