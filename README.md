@@ -1,4 +1,5 @@
 ## Matheus Germano
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
