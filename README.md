@@ -11,8 +11,8 @@ I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
 ### Stack ⚙
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=flat&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=flat&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=flat&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=flat&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=flat&logo=github&logoColor=white&labelColor=8E2DE2)
+![HTML5](https://img.shields.io/badge/html%205-grey?style=flat-square&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=flat-square&logo=css3&logoColor=white&labelColor=8E2DE2)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=flat-square&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=flat-square&logo=git&logoColor=white&labelColor=8E2DE2)
+![github](https://img.shields.io/badge/-github-grey?style=flat-square&logo=github&logoColor=white&labelColor=8E2DE2)
