@@ -6,9 +6,9 @@ I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
 ### Social 🌐
 
-[![Instagram Badge](https://img.shields.io/badge/_grrmano-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_grrmano/)](https://www.instagram.com/_grrmano/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Germano-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
-[![Gmail Badge](https://img.shields.io/badge/-dev.mgermano@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_grrmano/)](https://www.instagram.com/_grrmano/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
 
 ### Stack ⚙
 
