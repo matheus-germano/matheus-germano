@@ -2,6 +2,8 @@
 
 I'm a **Front-End Developer** and **UI/UX Designer** 💻
 
+- Learning ReactJS 
+
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
 ### Social 🌎
