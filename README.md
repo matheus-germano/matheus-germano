@@ -1,6 +1,10 @@
 ## Matheus Germano <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-I'm a **Front-End Developer** and **UI/UX Designer** 💻
+- Building experience as **Front-End Developer** | **UI/UX Designer** 💻
+- English Intermediate Level
+- Knowledge of Agile relayed on SCRUM
+- Ability to work creatively
+- ETECAP 2018 - 2020 and I.T at CPDB 2019 - 2020
 
 - Learning **ReactJS** and **React Native**
 
