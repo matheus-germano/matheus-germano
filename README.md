@@ -18,9 +18,9 @@
 ### Stack ⚙
 
 ![HTML5](https://img.shields.io/badge/HTML%205-6633cc?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Javascript-6633cc?style=flat-square&logo=javascript&logoColor=white)
-![Javascript](https://img.shields.io/badge/CSS%203-6633cc?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%203-6633cc?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6633cc?style=flat-square&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-6633cc?style=flat-square&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-6633cc?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-6633cc?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=white)
