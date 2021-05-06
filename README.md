@@ -1,12 +1,9 @@
-<div align="center">
-
 ## Hello there, I'm Matheus Germano! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
 ### Social 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
-</div>
 
 - Building experience as **Front-End Developer** | **UI/UX Designer** 💻
 - English Intermediate Level
