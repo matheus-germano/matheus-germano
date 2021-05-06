@@ -10,6 +10,8 @@
 
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
+<div align="center">
+
 ### Stack ⚙
 
 ![HTML5](https://img.shields.io/badge/HTML%205-6633cc?style=flat-square&logo=html5&logoColor=white)
@@ -24,3 +26,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
+
+</div>
