@@ -5,7 +5,7 @@
 - Knowledge of Agile relayed on SCRUM
 - Ability to work creatively
 - ETECAP 2018 - 2020 and I.T at CPDB 2019 - 2020
-- Learning **ReactJS** and **React Native**
+- Currently learning **ReactJS** and **React Native**
 
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
