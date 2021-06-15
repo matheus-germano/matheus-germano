@@ -1,6 +1,6 @@
 ## Hello there, I'm Matheus Germano! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-- Building experience as **Front-End Developer** | **UI/UX Designer** 💻
+- Building experience as **Front-End Web Developer** | **Mobile Developer** 💻
 - English Intermediate Level
 - Knowledge of Agile relayed on SCRUM
 - Ability to work creatively
