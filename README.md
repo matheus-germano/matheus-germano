@@ -9,6 +9,10 @@
 
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
+<hr>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=matheus-germano&show_icons=true&hide_border=true)
+
 ### Social 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
