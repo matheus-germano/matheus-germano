@@ -12,7 +12,7 @@
 <hr>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=matheus-germano&show_icons=true&hide_border=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-germano&show_icons=true&hide_border=true&layout=compact&theme=dark"/>
+<img style="max-width: 350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-germano&show_icons=true&hide_border=true&layout=compact&theme=dark"/>
 
 ### Stack ⚙
 
