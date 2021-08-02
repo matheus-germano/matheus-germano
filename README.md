@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
 
 - Building experience as **Front-End Web Developer** | **Mobile Developer** 💻
-- English Intermediate Level
-- Knowledge of Agile relayed on SCRUM
-- Ability to work creatively
-- ETECAP 2018 - 2020 and I.T at CPDB 2019 - 2020
-- Currently learning **ReactJS** and **NodeJS**
+- English Intermediate Level 🌎
+- Knowledge of Agile relayed on SCRUM ⚙
+- Ability to work creatively 🧠
+- Graduating in Analysis and Systems Development 👨‍💻
+- Currently learning **ReactJS** and **NodeJS** 📚
 
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
