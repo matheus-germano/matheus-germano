@@ -1,5 +1,8 @@
 ## Hello there, I'm Matheus Germano! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
+
 - Building experience as **Front-End Web Developer** | **Mobile Developer** 💻
 - English Intermediate Level
 - Knowledge of Agile relayed on SCRUM
@@ -23,8 +26,3 @@
 ![ReactJS](https://img.shields.io/badge/React-6633cc?style=flat-square&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-6633cc?style=flat-square&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=white)
-
-### Social 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
