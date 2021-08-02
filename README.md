@@ -23,7 +23,7 @@
     ![Git](https://img.shields.io/badge/-Git-6633cc?style=flat-square&logo=git&logoColor=white)
     ![Github](https://img.shields.io/badge/-Github-6633cc?style=flat-square&logo=github&logoColor=white)
   </div>
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=matheus-germano&show_icons=true&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-germano&show_icons=true&hide_border=true" />
 </div>
 
 ### Social 🌎
