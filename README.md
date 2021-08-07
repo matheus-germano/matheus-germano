@@ -1,7 +1,7 @@
 ## Hello there, I'm Matheus Germano! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mgermanodev/)](https://www.linkedin.com/in/mgermanodev/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
 
 - Building experience as **Front-End Web Developer** | **Mobile Developer** 💻
 - English Intermediate Level 🌎
