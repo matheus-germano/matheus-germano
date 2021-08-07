@@ -4,11 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
 
 - Building experience as **Front-End Web Developer** | **Mobile Developer** 💻
+- Currently learning **ReactJS**, **React Native** and **NodeJS** 📚
 - English Intermediate Level 🌎
 - Knowledge of Agile relayed on SCRUM ⚙
 - Ability to work creatively 🧠
 - Graduating in Analysis and Systems Development 👨‍💻
-- Currently learning **ReactJS** and **NodeJS** 📚
 
 "Se vale a pena ser feito, vale a pena ser bem feito!"
 
