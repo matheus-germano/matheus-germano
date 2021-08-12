@@ -18,8 +18,8 @@
 
 <div>
   <a href="https://github.com/matheus-germano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-germano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-germano&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-germano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-germano&layout=compact&theme=dark"/>
 </div>
 
 ### Stack ⚙
