@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
 
 - Building experience as **Front-End Web Developer** | **Mobile Developer** 💻
-- Graduating in Analysis and Systems Development 👨‍💻
+- Undergraduating in System Analysis and Development 👨‍💻
 - English Intermediate Level 🌎
 - Knowledge of Agile relayed on SCRUM ⚙
 - Ability to work creatively 🧠
