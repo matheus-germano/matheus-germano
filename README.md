@@ -9,8 +9,6 @@
 - Knowledge of Agile relayed on SCRUM ⚙
 - Ability to work creatively 🧠
 
-"Se vale a pena ser feito, vale a pena ser bem feito!"
-
 <hr>
 
 <div>
