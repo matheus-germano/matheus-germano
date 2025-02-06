@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.mgermano@gmail.com)](mailto:dev.mgermano@gmail.com)
 
 - I am a Software Engineer at [@BTG Pactual](https://www.linkedin.com/company/btgpactual/) 💻
-- Undergraduating in System Analysis and Development at [@IFSP](https://portal.cmp.ifsp.edu.br/) 👨‍💻
+- Undergraduated in System Analysis and Development at [@IFSP](https://portal.cmp.ifsp.edu.br/) 👨‍💻
 - English (B2) 🌎
 
 <hr>
